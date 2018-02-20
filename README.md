@@ -46,3 +46,6 @@ Search for, any bag of words or search terms
 
 SearchIntent, slot value "any bag of words or search terms
 
+
+Alexa.design/labs-recipe - Labs: Calling Services 
+alexa.design/labs-local
