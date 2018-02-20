@@ -23,6 +23,17 @@ Alexa business  - is not free
 
 alexa.design/notifications
 
+Voice ID
+Aleaxa Voice Interest Form
+
+AWS Promotional Credits
+alexa.design/AWScredits
+
+Alexa Developer Rewards
+alexa.design/rewards
+
+In-skill Purchases and Subscriptions
+alexa.design/earn
 
 
 
