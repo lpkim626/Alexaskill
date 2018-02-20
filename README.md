@@ -17,3 +17,12 @@ skill Management API - ASK CLI - alexa.design/cli
   HelloCat
 > cd HelloCat
 > ask deploy
+
+
+Alexa business  - is not free
+
+alexa.design/notifications
+
+
+
+
