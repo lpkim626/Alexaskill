@@ -10,3 +10,5 @@ alexa.uservoice.com
 https://echosim.io/welcome
 
 https://s3.amazonaws.com/knight-sunglasses/index.html
+
+skill Management API - ASK CLI - alexa.design/cli
