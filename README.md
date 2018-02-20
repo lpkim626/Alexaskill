@@ -49,3 +49,6 @@ SearchIntent, slot value "any bag of words or search terms
 
 Alexa.design/labs-recipe - Labs: Calling Services 
 alexa.design/labs-local
+
+
+https://storywriter.amazon.com/scripts/sGg9EePOmacX
